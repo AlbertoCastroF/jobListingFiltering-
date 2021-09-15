@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/jobListingFiltering-/static/css/main.7a56eb7e.chunk.css",
+    "main.js": "/jobListingFiltering-/static/js/main.edfa3251.chunk.js",
+    "main.js.map": "/jobListingFiltering-/static/js/main.edfa3251.chunk.js.map",
+    "runtime-main.js": "/jobListingFiltering-/static/js/runtime-main.3de83979.js",
+    "runtime-main.js.map": "/jobListingFiltering-/static/js/runtime-main.3de83979.js.map",
+    "static/js/2.ccf0dca7.chunk.js": "/jobListingFiltering-/static/js/2.ccf0dca7.chunk.js",
+    "static/js/2.ccf0dca7.chunk.js.map": "/jobListingFiltering-/static/js/2.ccf0dca7.chunk.js.map",
+    "static/js/3.91e1c31c.chunk.js": "/jobListingFiltering-/static/js/3.91e1c31c.chunk.js",
+    "static/js/3.91e1c31c.chunk.js.map": "/jobListingFiltering-/static/js/3.91e1c31c.chunk.js.map",
+    "index.html": "/jobListingFiltering-/index.html",
+    "static/css/main.7a56eb7e.chunk.css.map": "/jobListingFiltering-/static/css/main.7a56eb7e.chunk.css.map",
+    "static/js/2.ccf0dca7.chunk.js.LICENSE.txt": "/jobListingFiltering-/static/js/2.ccf0dca7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3de83979.js",
+    "static/js/2.ccf0dca7.chunk.js",
+    "static/css/main.7a56eb7e.chunk.css",
+    "static/js/main.edfa3251.chunk.js"
+  ]
+}
