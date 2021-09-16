@@ -5,6 +5,7 @@ import App from "./App";
 import reportWebVitals from "./reportWebVitals";
 import { ContextProvider } from "./Context";
 
+//I USE CONTEXT TO HAVE MAIN LOGIC IN ONE PLACE
 ReactDOM.render(
   <ContextProvider>
     <React.StrictMode>
