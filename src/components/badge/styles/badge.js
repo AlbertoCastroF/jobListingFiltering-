@@ -179,7 +179,7 @@ export const Tags = styled.div`
 
 export const Header = styled.div`
   position: relative;
-  background: url(${process.env.PUBLIC_URL + "/images/phtotosnap.svg"});
+  background: url(${process.env.PUBLIC_URL + "/images/bg-header-desktop.svg"});
   background-repeat: no-repeat;
   background-size: cover;
   height: 20vh;
