@@ -34,8 +34,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/AlbertoCastroF/jobListingFiltering-)
-- Live Site URL: [Add live site URL here](https://albertocastrof.github.io/jobListingFiltering-/)
+- Solution URL: [Github](https://github.com/AlbertoCastroF/jobListingFiltering-)
+- Live Site URL: [Job listing with filtering](https://albertocastrof.github.io/jobListingFiltering-/)
 
 ## My process
 
