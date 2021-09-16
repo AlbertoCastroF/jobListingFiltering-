@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](/public/images/DESKTOP_VIEW.jpg)
 
 ### Links
 
