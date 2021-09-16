@@ -30,7 +30,7 @@ Users should be able to:
 
 ![](/public/images/DESKTOP_VIEW.jpg)
 
-![](/public/images/MOBILE_VIEW.jpg)
+![](/public/images/MOBILE_VIEW.png)
 
 ### Links
 
